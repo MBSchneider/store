@@ -2,7 +2,7 @@
 
 By [Matt Schneider](github.com/MBSchneider)
 
-**Portfolio Application** Followed [railscasts](http://railscasts.com/episodes/327-minitest-with-rails) to create this application in order to experiment with minitest.
+Followed [Railscast #327, MiniTest with Rails](http://railscasts.com/episodes/327-minitest-with-rails), experiment with using minitest and capybara to test a rails application.
 
 ## Authors
 
